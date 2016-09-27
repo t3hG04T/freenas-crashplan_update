@@ -5,8 +5,8 @@ Thanks to **mastax** @freeNas forums for providing the most important aspects ([
 
 # Update CP on FreeNAS to 4.7
 
-[Instructions are here](../blob/master/update_to_4.7.md)
+[Instructions are here](../master/update_to_4.7.md)
 
 # Configure GUI to connect to headless CP@FreeNAS
 
-[Instructions are here](../blob/master/configure_headless_access.md)
+[Instructions are here](../master/configure_headless_access.md)
