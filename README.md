@@ -10,3 +10,10 @@ Thanks to **mastax** @freeNas forums for providing the most important aspects ([
 # Configure GUI to connect to headless CP@FreeNAS
 
 [Instructions are here](../master/configure_headless_access.md)
+
+# References
+
+[Guide to backup home computers to CrashPlan on FreeNAS](https://forums.freenas.org/index.php?threads/guide-to-backup-home-computers-to-crashplan-on-freenas.39265/) by **stryk9** @ freeNAS forums
+[mastax's post in _Crashplan NOT updating?_](https://forums.freenas.org/index.php?threads/crashplan-not-updating.40374/#post-254182) @ freeNAS forums
+[FreeNAS Crashplan installation](https://nguvu.org/freenas/freenas-install-crashplan/) @ nguvu.org
+[Using CrashPlan On A Headless Computer](https://support.code42.com/CrashPlan/4/Configuring/Using_CrashPlan_On_A_Headless_Computer) @ support.code42.com (instructions for version 4.x)
