@@ -9,6 +9,8 @@ cd crashplan-install
 cpio -idv < CrashPlan_4.7.0.cpi
 ```
 
+If the version changes you should be able to just increment the number in the link and commands and be ready to go.
+
 # Stop the crashplan service
 ```sh
 service crashplan stop
