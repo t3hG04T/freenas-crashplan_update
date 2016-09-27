@@ -17,6 +17,11 @@ Make file read-only to prevent overwrites!
 
 Change the port in .ui_info on **local machine** to 4200.
 
+Resulting .ui_info should look like this:
+```
+4200,{TOKEN_COPIED_FROM_HEADLESS_MACHINE},127.0.0.1
+```
+
 # Tunnel the ports via SSH (Putty)
 
 Add a port tunelling from **4200** local to port: **localhost:4243**.
