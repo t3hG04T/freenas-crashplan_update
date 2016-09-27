@@ -17,3 +17,4 @@ Thanks to **mastax** @freeNas forums for providing the most important aspects ([
 1. [mastax's post in _Crashplan NOT updating?_](https://forums.freenas.org/index.php?threads/crashplan-not-updating.40374/#post-254182) @ freeNAS forums
 1. [FreeNAS Crashplan installation](https://nguvu.org/freenas/freenas-install-crashplan/) @ nguvu.org
 1. [Using CrashPlan On A Headless Computer](https://support.code42.com/CrashPlan/4/Configuring/Using_CrashPlan_On_A_Headless_Computer) @ support.code42.com (instructions for version 4.x)
+1. [How-to : Crashplan & Freenas](https://github.com/sirkkalap/freenas-crashplan-howto) @ github - **a very comprehensive guide!**
