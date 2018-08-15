@@ -1,3 +1,11 @@
+# OBSOLETE
+
+This guide is now out-of-date and obsolete due to multiple reasons:
+
+1. Issues with `Crashplan` engine prevent it from running correctly
+2. `Crashplan` has discontinued it's Home plan
+3. A smoother experience can be had by running CP in docker, I reccomend: [**`jlesage/docker-crashplan-pro`**](https://github.com/jlesage/docker-crashplan-pro)
+
 # freenas-crashplan_update
 Simple guide on updating CrashPlan plugin on FreeNAS. Made as a do-not-forget note for future reference.
 
